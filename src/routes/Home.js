@@ -15,7 +15,7 @@ function Home() {
         title="Explore the world"
         text="Let the adventure begen."
         buttonText="Travel Plan"
-        url="/"
+        url="/service"
         btnClass="show"
       />
       <Destination />
