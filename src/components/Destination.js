@@ -3,7 +3,6 @@ import Mountain2 from "../assets/2.jpg";
 import Mountain3 from "../assets/3.jpg";
 import Mountain4 from "../assets/4.jpg";
 import "./DestinationStyles.css";
-import { Component } from "react";
 import DestinationData from "./DestinationData";
 
 const Destination = () => {
